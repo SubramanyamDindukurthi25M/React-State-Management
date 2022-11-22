@@ -1,0 +1,16 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.underline {
+    width: 550px;
+    height: 0.3rem;
+}
+
+.btn:focus,
+input:focus {
+    outline: none;
+}
